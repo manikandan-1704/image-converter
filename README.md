@@ -31,7 +31,7 @@ Select the desired format and click the "Convert" button. Once the conversion is
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Contributing
-Contributions are welcome! Please follow these steps to contribute:
+Contributions are welcome! Please follow these steps to contribute:🙌
 
 #### 1. Fork the repository
 #### 2. Create a new branch
